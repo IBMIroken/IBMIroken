@@ -8,3 +8,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="60" alt="Photoshop"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="60" alt="Premiere Pro"/>
 </div>
+
+![Profile Banner](./images/profile-banner.jpg)
