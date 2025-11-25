@@ -9,8 +9,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="60" alt="Premiere Pro"/>
 </div>
 
-## 📊 GitHub Stats
+| Metric | Value |
+|--------|-------|
+| ⭐ Total Stars Earned | 0 |
+| ⏱️ Total Commits | 40 |
+| 🔀 Total PRs | 2 |
+| 📝 Total Issues | 0 |
+| 📅 Contributed to (last year) | 1 |
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=IBMIroken&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IBMIroken&layout=compact&theme=radical)
+### Most Used Languages
+- 🔴 **Blade** 44.82%
+- 💙 **PHP** 29.72%
+- 🟠 **HTML** 15.07%
+- 💛 **JavaScript** 9.83%
+- 💜 **CSS** 0.55%
