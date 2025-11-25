@@ -9,17 +9,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="60" alt="Premiere Pro"/>
 </div>
 
-| Metric | Value |
-|--------|-------|
-| ⭐ Total Stars Earned | 0 |
-| ⏱️ Total Commits | 40 |
-| 🔀 Total PRs | 2 |
-| 📝 Total Issues | 0 |
-| 📅 Contributed to (last year) | 1 |
-
-### Most Used Languages
-- 🔴 **Blade** 44.82%
-- 💙 **PHP** 29.72%
-- 🟠 **HTML** 15.07%
-- 💛 **JavaScript** 9.83%
-- 💜 **CSS** 0.55%
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
+  <div style="border: 2px solid #444; border-radius: 8px; padding: 20px; background: #0d1117;">
+    <h3 style="color: #ff6b9d; margin-top: 0;">KittinanDev's GitHub Stats</h3>
+    <p>⭐ Total Stars Earned: <strong>0</strong></p>
+    <p>⏱️ Total Commits: <strong>40</strong></p>
+    <p>🔀 Total PRs: <strong>2</strong></p>
+    <p>📝 Total Issues: <strong>0</strong></p>
+    <p>📅 Contributed to (last year): <strong>1</strong></p>
+  </div>
+  
+  <div style="border: 2px solid #444; border-radius: 8px; padding: 20px; background: #0d1117;">
+    <h3 style="color: #ff6b9d; margin-top: 0;">Most Used Languages</h3>
+    <p>🔴 <strong>Blade</strong> 44.82%</p>
+    <p>💙 <strong>PHP</strong> 29.72%</p>
+    <p>🟠 <strong>HTML</strong> 15.07%</p>
+    <p>💛 <strong>JavaScript</strong> 9.83%</p>
+    <p>💜 <strong>CSS</strong> 0.55%</p>
+  </div>
+</div>
