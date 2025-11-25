@@ -9,4 +9,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="60" alt="Premiere Pro"/>
 </div>
 
-![Profile Banner](./images/ca.jpg)
+<div align="center">
+  <img src="./images/ca.jpg" width="400" alt=""/>
+</div>
