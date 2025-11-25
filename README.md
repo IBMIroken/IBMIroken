@@ -4,8 +4,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IBMIroken&layout=compact&theme=radical)
 
-## 🛠️ Tech Stack
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="C++"/>
