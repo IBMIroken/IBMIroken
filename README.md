@@ -9,6 +9,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="60" alt="Premiere Pro"/>
 </div>
 
+<br><br>
+
 <div align="center">
   <img src="./images/ca.jpg" width="400" alt=""/>
 </div>
